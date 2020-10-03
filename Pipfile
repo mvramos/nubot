@@ -7,6 +7,9 @@ name = "pypi"
 python-telegram-bot = "*"
 fastapi = "*"
 uvicorn = "*"
+sqlalchemy = "*"
+pydantic = "*"
+psycopg2 = "*"
 
 [dev-packages]
 
